@@ -1,0 +1,5 @@
+# 自动将CRLF转换为LF
+*.ipynb text eol=lf
+
+# 对其他文件使用默认设置
+* text=auto
